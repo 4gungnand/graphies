@@ -1,0 +1,4 @@
+pygame==2.5.2
+matplotlib==3.8.2
+matplotlib-inline==0.1.6
+pyopengl
